@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Homepage
 
-I'm glad you are here. I plan to talk about ...
+Welcome to the homepage. Here are some links to try:
+* Link 1
+* Link 2
+* Link 3
